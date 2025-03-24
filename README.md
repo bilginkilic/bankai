@@ -75,7 +75,7 @@ For each document type:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bankai.git
+git clone https://github.com/bilginkilic/bankai.git
 cd bankai
 
 # Create and activate virtual environment
